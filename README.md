@@ -1,2 +1,2 @@
 # info2180-lab1
-Lab 1 for the INFO2180 course - Dynamic Web Development 
+# INFO2180 Lab 1 This is Lab 1 for <Jaydar Mitchell>
